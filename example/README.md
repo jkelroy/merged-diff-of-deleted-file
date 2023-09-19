@@ -1,2 +1,2 @@
 # merged-diff-of-deleted-file
-asdf
+asdfchange
